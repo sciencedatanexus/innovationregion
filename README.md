@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jfd-sdn (Jean-Francois)
+- 👋 Hi, I’m @sciencedatanexus
 - 👀 I’m interested in OpenScience data
 - 🌱 I’m currently learning Lens.org APIs
 - 💞️ I’m looking to collaborate on OpenScience bibliometric data and information
